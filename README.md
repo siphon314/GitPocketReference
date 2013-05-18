@@ -1,4 +1,0 @@
-GitPocketReference
-==================
-
-Gitポケットリファレンス

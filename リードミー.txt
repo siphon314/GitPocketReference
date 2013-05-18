@@ -1,1 +1,4 @@
-ƒ[ƒJƒ‹‚a	‚`¨‚a
+local a:   >b->c>
+remote : a->b->c->d->e
+local b:>a->b      >
+
